@@ -1,3 +1,4 @@
 # microphone
 TEXT YOUR VOİCE TO TEXT WİTH PYTHON
 ıN ORDER TO USE THE TOOL, THE Speech Recognition LİBRARY MUST BE İNSTALLED
+SUPPORTED LANGUAGES: Russian , Turkısh , Englısh
