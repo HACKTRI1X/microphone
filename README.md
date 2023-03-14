@@ -1,0 +1,2 @@
+# microphone
+TEXT YOUR VOİCE TO TEXT WİTH PYTHON
